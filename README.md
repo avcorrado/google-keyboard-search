@@ -1,6 +1,6 @@
 # Quick Google Search Extension
 
-<img src="./src/icons/icon.png" alt="Search Icon" width="50" height="50">
+<img src="./src/icons/icon.png" alt="Search Icon" width="100" height="100">
 
 This Firefox/Chrome extension enables lightning-fast Google searches from any webpage using a keyboard shortcut. Simply highlight text and press a hotkey—no right-clicking, no extra steps.
 
