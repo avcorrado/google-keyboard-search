@@ -1,10 +1,10 @@
 {
   "manifest_version": 2,
   "name": "Google Keyboard Search",
-  "version": "1.0.0",
-    "icons": {
-      "64": "icons/icon.png"
-    },
+  "version": "1.0.1",
+  "icons": {
+    "64": "icons/icon.png"
+  },
   "description": "Search selected text on Google using a keyboard shortcut. ",
   "permissions": [
     "tabs",
