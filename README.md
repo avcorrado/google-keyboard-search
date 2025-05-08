@@ -1,6 +1,6 @@
 # Quick Google Search Extension
 
-<img src="./icons/search.png" alt="Search Icon" width="50" height="50">
+<img src="./icons/icon.png" alt="Search Icon" width="50" height="50">
 
 This Firefox/Chrome extension enables lightning-fast Google searches from any webpage using a keyboard shortcut. Simply highlight text and press a hotkey—no right-clicking, no extra steps.
 
@@ -19,7 +19,7 @@ This Firefox/Chrome extension enables lightning-fast Google searches from any we
 
 ### 🔗 From Firefox Add-ons Store (Recommended)
 
-You can download and install the extension directly from the [Firefox Add-ons store](https://addons.mozilla.org/firefox/addon/quick-google-search/) *(coming soon)*.
+You can download and install the extension directly from the [Firefox Add-ons store](https://addons.mozilla.org/en-US/firefox/addon/google-keyboard-search/)
 
 ### 🧪 Developer Installation (Temporary)
 
@@ -45,20 +45,6 @@ The extension requests the following permissions:
 1. Select any text on a webpage.
 2. Press your keyboard shortcut (default is `Ctrl + Shift + I` or `Command + Shift + I` on macOS).
 3. A new tab will open with a Google search for the selected text.
-
-## Options Page
-
-You can change the keyboard shortcut by:
-
-1. Opening the extension’s Options page.
-2. Entering a new shortcut (e.g., `Ctrl+Alt+G`).
-3. Saving the shortcut.
-
-Your selection will take effect immediately.
-
-## Screenshot
-
-<img src="./screenshots/screenshot.jpg" alt="Quick Google Search Screenshot" width="600">
 
 ## License
 
